@@ -1,0 +1,15 @@
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\try-catch\bin\Debug\net9.0\try-catch.exe
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\try-catch\bin\Debug\net9.0\try-catch.deps.json
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\try-catch\bin\Debug\net9.0\try-catch.runtimeconfig.json
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\try-catch\bin\Debug\net9.0\try-catch.dll
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\try-catch\bin\Debug\net9.0\try-catch.pdb
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\try-catch\obj\Debug\net9.0\try-catch.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\try-catch\obj\Debug\net9.0\try-catch.AssemblyInfoInputs.cache
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\try-catch\obj\Debug\net9.0\try-catch.AssemblyInfo.cs
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\try-catch\obj\Debug\net9.0\try-catch.csproj.CoreCompileInputs.cache
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\try-catch\obj\Debug\net9.0\try-catch.sourcelink.json
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\try-catch\obj\Debug\net9.0\try-catch.dll
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\try-catch\obj\Debug\net9.0\refint\try-catch.dll
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\try-catch\obj\Debug\net9.0\try-catch.pdb
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\try-catch\obj\Debug\net9.0\try-catch.genruntimeconfig.cache
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\try-catch\obj\Debug\net9.0\ref\try-catch.dll
